@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogaractic.github.io/sitemap.html.gz
+Sitemap: https://ogaractic.github.io/app/sitemap.html.gz
+Sitemap: https://ogaractic.github.io/assets/sitemap.html.gz
+Sitemap: https://ogaractic.github.io/css/sitemap.html.gz
+Sitemap: https://ogaractic.github.io/includes/sitemap.html.gz
+Sitemap: https://ogaractic.github.io/item/sitemap.html.gz
+Sitemap: https://ogaractic.github.io/src/sitemap.html.gz
